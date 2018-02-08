@@ -2,20 +2,19 @@
 
 ## Forkthis Repo for Practice
 
-### Write your author name here. eg. By Nicole
+### By Shay Peretz
 
 ### Description
 
-Create a description and fill it in here.
+This is an exercise of forking a Git repo, updating it locally, and pushing it back to Github.
 
 ## Languages used
 
-What languages were used for this repo:
-List them
+HTML
 
 ### Known Bugs
 
-Are there any? If so what are they?
+No bugs!
 
 ## License
 
@@ -23,6 +22,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Thanks to Ms. Nicole for her amazing course!
